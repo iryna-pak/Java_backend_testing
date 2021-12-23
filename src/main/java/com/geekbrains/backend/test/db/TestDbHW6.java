@@ -21,7 +21,7 @@ public class TestDbHW6 {
         Categories createCategory = new Categories();
         for (int i=0; i<=3; i++) {
             createCategory.setTitle(createNameCategory[i]);
-            categoriesMapper.insert(createCategory);
+            //categoriesMapper.insert(createCategory);
             System.out.println("Создана категория" + ": " + createCategory);
         }
 
@@ -34,7 +34,7 @@ public class TestDbHW6 {
             forCreate.setTitle(productsBooks[i]);
             forCreate.setPrice(priceProductsBooks[i]);
             forCreate.setCategoryId(3L);
-            productsMapper.insert(forCreate);
+            //productsMapper.insert(forCreate);
         }
 
         String[] productsToys = {"Toys1", "Toys2", "Toys3"};
@@ -43,7 +43,7 @@ public class TestDbHW6 {
             forCreate.setTitle(productsToys[i]);
             forCreate.setPrice(priceProductsToys[i]);
             forCreate.setCategoryId(4L);
-            productsMapper.insert(forCreate);
+            //productsMapper.insert(forCreate);
         }
 
         String[] productsFlowers = {"Flowers1", "Flowers2", "Flowers3"};
@@ -52,7 +52,7 @@ public class TestDbHW6 {
             forCreate.setTitle(productsFlowers[i]);
             forCreate.setPrice(priceProductsFlowers[i]);
             forCreate.setCategoryId(5L);
-            productsMapper.insert(forCreate);
+            //productsMapper.insert(forCreate);
         }
 
         String[] productsFurniture = {"Furniture1", "Furniture2", "Furniture3"};
@@ -61,7 +61,7 @@ public class TestDbHW6 {
             forCreate.setTitle(productsFurniture[i]);
             forCreate.setPrice(priceProductsFurniture[i]);
             forCreate.setCategoryId(6L);
-            productsMapper.insert(forCreate);
+            //productsMapper.insert(forCreate);
         }
 
         //  Вывести продуктов в каждой из категорий
