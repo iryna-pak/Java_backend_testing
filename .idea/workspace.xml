@@ -8,6 +8,7 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mini-market.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/mini-market.mv.db" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/geekbrains/backend/test/db/DbService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/backend/test/db/DbService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/CategoriesMapper.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/dao/ProductsMapper.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/mapper/xml/CategoriesMapper.xml" beforeDir="false" />
@@ -16,16 +17,65 @@
       <change beforePath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/CategoriesExample.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/Products.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/geekbrains/db/model/ProductsExample.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/backend/test/db/TestDbHW6.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/geekbrains/backend/test/db/TestDbHW6.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/db/dao/CategoriesMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/geekbrains/db/dao/CategoriesMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/db/dao/ProductsMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/geekbrains/db/dao/ProductsMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/db/mapper/xml/CategoriesMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/geekbrains/db/mapper/xml/CategoriesMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/db/mapper/xml/ProductsMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/geekbrains/db/mapper/xml/ProductsMapper.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/db/model/Categories.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/geekbrains/db/model/Categories.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/db/model/CategoriesExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/geekbrains/db/model/CategoriesExample.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/db/model/Products.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/geekbrains/db/model/Products.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/db/model/ProductsExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/geekbrains/db/model/ProductsExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/backend/test/Hello.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/backend/test/Hello.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/backend/test/db/DbService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/backend/test/db/DbService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/backend/test/db/TestDbHW6.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/backend/test/db/TestDbHW6.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/backend/test/db/myBatisConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/db/dao/CategoriesMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/db/dao/CategoriesMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/db/dao/ProductsMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/db/dao/ProductsMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/db/mapper/xml/CategoriesMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/db/mapper/xml/ProductsMapper.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/db/model/Categories.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/db/model/Categories.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/db/model/CategoriesExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/db/model/CategoriesExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/db/model/CategoriesExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/db/model/CategoriesExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/db/model/CategoriesExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/db/model/Products.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/db/model/Products.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/db/model/ProductsExample$Criteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/db/model/ProductsExample$Criterion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/db/model/ProductsExample$GeneratedCriteria.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/db/model/ProductsExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/geekbrains/db/model/ProductsExample.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/generatorConfig.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/myBatisConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.geekbrains.backend.test.imgur.ImgurApiFunctionalTest.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-com.geekbrains.backend.test.miniMarket.Test.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.geekbrains.backend.test.imgur.ImgurApiFunctionalTest.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/surefire-reports/com.geekbrains.backend.test.miniMarket.Test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/geekbrains/backend/test/FunctionalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/geekbrains/backend/test/HelloTest$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/geekbrains/backend/test/HelloTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/geekbrains/backend/test/HelloTest/data.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/geekbrains/backend/test/imgur/ImgurApiAbstractTestHW4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/geekbrains/backend/test/imgur/ImgurApiFunctionalTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/geekbrains/backend/test/imgur/ImgurApiFunctionalTest/Lesson3_text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/geekbrains/backend/test/imgur/ImgurApiFunctionalTest/Thumbs.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/geekbrains/backend/test/imgur/ImgurApiFunctionalTest/lesson3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/geekbrains/backend/test/imgur/ImgurApiFunctionalTestHW4.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/geekbrains/backend/test/imgur/ImgurApiFunctionalTestHW4/Lesson4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/geekbrains/backend/test/imgur/ImgurApiFunctionalTestHW4/Lesson4_text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/geekbrains/backend/test/miniMarket/MiniMarketApi.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/geekbrains/backend/test/miniMarket/MiniMarketApiTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/geekbrains/backend/test/miniMarket/MiniMarketService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/geekbrains/backend/test/miniMarket/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/geekbrains/backend/test/miniMarket/model/Category$CategoryBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/geekbrains/backend/test/miniMarket/model/Category.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/geekbrains/backend/test/miniMarket/model/Product$ProductBuilder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/geekbrains/backend/test/miniMarket/model/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/geekbrains/backend/test/miniMarket/model/ProductResponse.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/geekbrains/backend/test/test.properties" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
