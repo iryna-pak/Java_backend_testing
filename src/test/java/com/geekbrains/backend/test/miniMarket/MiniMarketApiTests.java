@@ -30,7 +30,7 @@ public class MiniMarketApiTests {
         /* Ассерты на первые два продукта в категории */
         Assertions.assertEquals(1L, category.getId());
         Assertions.assertEquals("Food", category.getTitle());
-        Assertions.assertEquals(2L, category.getProducts().get(0).getId());
+        Assertions.assertEquals(99L, category.getProducts().get(0).getId());
         Assertions.assertEquals("Bread", category.getProducts().get(0).getTitle());
         Assertions.assertEquals(25, category.getProducts().get(0).getPrice());
         Assertions.assertEquals("Food", category.getProducts().get(0).getCategoryTitle());
