@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c92a8d49-5f64-4dd7-a120-c071e4ec4edb" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mini-market.mv.db" beforeDir="false" afterPath="$PROJECT_DIR$/mini-market.mv.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/geekbrains/backend/test/db/TestDbHW6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/geekbrains/backend/test/db/TestDbHW6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/classes/myBatisConfig.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
