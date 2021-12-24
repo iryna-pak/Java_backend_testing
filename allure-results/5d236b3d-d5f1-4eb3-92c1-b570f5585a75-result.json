@@ -1,0 +1,1 @@
+{"uuid":"5d236b3d-d5f1-4eb3-92c1-b570f5585a75","historyId":"578edc1c6827a7e757ae2fa25dfa5741","labels":[{"name":"suite","value":"Тесты функциональности класса Hello"},{"name":"package","value":"com.geekbrains.backend.test.HelloTest"}],"name":"Тест зачитывания ресурса","status":"passed","stage":"finished","start":1640305780230,"stop":1640305780239}
